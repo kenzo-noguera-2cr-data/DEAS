@@ -1,0 +1,10 @@
+2CR_INTERNAL_ID,POINT2IDS
+LISTING_ADRESS,AddressLocation_Address
+CITY,AddressLocation_City
+MLS_ID,AddressLocation_MLSNumber
+PRICE,ListingInformation_StatusInfo_Price
+DESCRIPTION,Description
+SIZE,BuildingDetails_Size
+BEDROOMS,BuildingDetails_BedroomCount
+BATHROOMS,BuildingDetails_BathroomCount
+LOT_SIZE,Lot_LotSize

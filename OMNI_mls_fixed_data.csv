@@ -1,0 +1,7 @@
+﻿ATTRIBUTE,VALUE,VALUE_TYPE
+propiedades_tipoComision,porcentaje,MULTIPLE_CHOICE
+propiedades_duracionCPS,365,CLASSIC
+formCaracteristicas_agua,click,CLICK
+formCaracteristicas_luz,click,CLICK
+propiedades_moneda,USD,MULTIPLE_CHOICE
+formPortal14379_activo,click,CLICK

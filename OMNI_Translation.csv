@@ -1,0 +1,17 @@
+﻿2CR_INTERNAL_ID,OMNI_IDS,VALUE_TYPE
+BATHROOM,propiedades_banios,CLASSIC
+BEDROOMS,propiedades_recamaras,CLASSIC
+COMISION,propiedades_comision,CLASSIC
+COMISION2,propiedades_comisionACompartirInmobiliariasExternas,CLASSIC
+DATE_TODAY,propiedades_fechaFirmaCPS,DATE
+DESCRIPTION,propiedades_descripcionIngles,CLASSIC
+DESCRIPTION_ESP,propiedades_descripcion,CLASSIC
+LISTING_ADRESS,propiedades_encabezado,CLASSIC
+LISTING_ADRESS_ESP,propiedades_encabezado,CLASSIC
+LOT_SIZE,propiedades_m2T,CLASSIC
+PRICE,propiedades_precioEnContrato,CLASSIC
+PRICE,propiedades_precioVenta,CLASSIC
+PROPERTY_TYPE,propiedades_tipoPropiedad,MULTIPLE_CHOICE
+SIZE,propiedades_M2c,CLASSIC
+STORIES,propiedades_nivelesConstruidos,CLASSIC
+YEAR_BUILT,propiedades_edad,CLASSIC

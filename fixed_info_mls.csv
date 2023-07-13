@@ -1,0 +1,26 @@
+﻿ATTRIBUTE,VALUE,VALUE_TYPE
+form.widgets.restricted_use,unknown,MULTIPLE_CHOICE
+form.widgets.amenities_included:list,water,MULTIPLE_CHOICE
+form.widgets.amenities_included:list,telephone,MULTIPLE_CHOICE
+form.widgets.amenities_included:list,television,MULTIPLE_CHOICE
+form.widgets.ownership_type:list,other,MULTIPLE_CHOICE
+form.widgets.agent_office_phone,+506 25199413,CLASSIC
+form.widgets.agent_cell_phone,+506 88677265,CLASSIC
+form.widgets.agent_fax,+506 25199413,CLASSIC
+form-widgets-agent_email,todd@2costaricarealestate.com,CLASSIC
+form.widgets.description.i18n.en,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",CLASSIC
+form.widgets.view_type:list,garden_view,MULTIPLE_CHOICE
+form.widgets.air_condition,FALSE,BOOLEAN_CHOICE
+form.widgets.furnished,FALSE,BOOLEAN_CHOICE
+form.widgets.pool,FALSE,BOOLEAN_CHOICE
+form.widgets.jacuzzi,FALSE,BOOLEAN_CHOICE
+form.widgets.street_access,FALSE,BOOLEAN_CHOICE
+form.widgets.water,FALSE,BOOLEAN_CHOICE
+form.widgets.sewer,FALSE,BOOLEAN_CHOICE
+form.widgets.internet_is,FALSE,BOOLEAN_CHOICE
+form.widgets.television_is,FALSE,BOOLEAN_CHOICE
+form.widgets.electricity,FALSE,BOOLEAN_CHOICE
+form.widgets.telephone_is,FALSE,BOOLEAN_CHOICE
+form.widgets.commission_seller,5,CLASSIC
+form.widgets.commission_buyer,2.5,CLASSIC
+form.widgets.ownership_type:list,timeshare,MULTIPLE_CHOICE
